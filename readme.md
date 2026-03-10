@@ -27,7 +27,7 @@
 
 | Login | Dashboard |
 | :---: | :---: |
-| <img src="Screenshot 2026-03-10 183914.png" width="350" alt="Login View" /> | <img src="Screenshot 2026-03-10 184155.png" width="350" alt="Dashboard View" /> 
+| <img src="Screenshot 2026-03-10 183914.png" width="400" alt="Login View" /> | <img src="Screenshot 2026-03-10 184155.png" width="400" alt="Dashboard View" /> 
 
 ---
 *Built to optimize the learning process.*
