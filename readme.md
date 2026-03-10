@@ -27,7 +27,7 @@
 
 | Login | Dashboard |
 | :---: | :---: |
-| <img src="https://srstracker.netlify.app/favicon.ico" width="250" alt="Login View" /> *(Add your login screenshot path here)* | <img src="https://srstracker.netlify.app/favicon.ico" width="250" alt="Dashboard View" /> *(Add your dashboard screenshot path here)* |
+| <img src="Screenshot 2026-03-10 184155.png" width="250" alt="Login View" />  <img src="Screenshot 2026-03-10 183914.png" width="250" alt="Dashboard View" /> 
 
 ---
 *Built to optimize the learning process.*
